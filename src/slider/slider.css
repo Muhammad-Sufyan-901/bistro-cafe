@@ -19,9 +19,9 @@
 }
 
 .carousel .control-prev.control-arrow:before {
-  background: url('../src/assets/img/testimonial/arrow-left.svg') no-repeat;
+  background: url("../../src/assets/img/testimonial/arrow-left.svg") no-repeat;
 }
 
 .carousel .control-next.control-arrow:before {
-  background: url('../src/assets/img/testimonial/arrow-right.svg') no-repeat;
+  background: url("../../src/assets/img/testimonial/arrow-right.svg") no-repeat;
 }
